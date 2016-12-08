@@ -19,7 +19,7 @@ import com.exacttarget.fuelsdk.ETSdkException;
  * <p>(c) 2016 Sport Trades Ltd</p>
  * <p>License GPLv3</p>
  * 
- * @author Jaskirat M.S. Rajasansir
+ * @author Jas Rajasansir
  * @version 1.0.0
  * @since 8 Dec 2016
  */
