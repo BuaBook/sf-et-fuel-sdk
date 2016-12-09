@@ -2,12 +2,11 @@
 
 This repository has some classes that we've found useful when developing against the ExactTarget API.
 
-You can download the library here.
+You can download the library here. JavaDoc can be found on [BuaBook.github.io](http://buabook.github.io/javadoc/sf-et-fuel-sdk/).
 
 To-do:
 
 * Release to Maven Central
-* Provide JavaDoc reference online
 
 ## Included Classes
 
