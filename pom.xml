@@ -4,7 +4,7 @@
 	<groupId>com.buabook</groupId>
 	<artifactId>sf-et-fuel-sdk</artifactId>
 	<packaging>jar</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 
 	<name>Salesforce ExactTarget FuelSDK Extensions</name>
 	<description>Extensions for com.exacttarget.fuelsdk (c) 2016 Sport Trades Ltd</description>

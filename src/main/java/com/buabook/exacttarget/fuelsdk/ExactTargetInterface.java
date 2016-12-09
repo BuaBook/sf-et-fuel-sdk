@@ -21,7 +21,7 @@ public class ExactTargetInterface {
 	private static final Logger log = Logger.getLogger(ExactTargetInterface.class.getName());
 
 	
-	private final ETClient client;
+	protected final ETClient client;
 	
 	
 	public ExactTargetInterface(ETClient client) throws IllegalArgumentException {
