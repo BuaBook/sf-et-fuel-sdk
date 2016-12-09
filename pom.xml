@@ -8,6 +8,25 @@
 
 	<name>Salesforce ExactTarget FuelSDK Extensions</name>
 	<description>Extensions for com.exacttarget.fuelsdk (c) 2016 Sport Trades Ltd</description>
+	
+	<url>http://buabook.github.io</url>
+	<licenses>
+		<license>
+    		<name>GPLv3</name>
+    		<url>https://raw.githubusercontent.com/BuaBook/sf-et-fuel-sdk/master/LICENSE</url>
+  		</license>
+	</licenses>
+	
+	<scm>
+		<url>https://github.com/BuaBook/sf-et-fuel-sdk.git</url>
+	</scm>
+	
+	<developers>
+		<developer>
+			<name>Jas Rajasansir</name>
+			<organization>BuaBook</organization>
+		</developer>
+	</developers>
 
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
